@@ -1,0 +1,147 @@
+body {
+    direction: rtl;
+    background: url(/images/pexels-photo-796620.jpeg) no-repeat top center;
+    
+    
+}
+div #container {
+    width: 960px;
+    margin: 0 auto;
+    
+    
+}
+article {
+    width: 960px;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 40px;
+    border-radius: 8%;
+    padding: 20px;
+    background: rgba(0, 0, 0, 0.2);
+    color: black;
+    margin-bottom:30px;
+    
+}
+
+       
+h1 {
+    font:bold 40pt calibri;
+    position:relative;
+    top: 120px;
+    text-align:center;
+   
+}
+#container p {
+    font:  18pt calibri;
+    position: relative;
+    top: 130px;
+    text-align: center;
+}
+#first {
+    margin: 220px;
+    
+}
+nav#first ul li a {
+    display: inline-block;
+    float: right;
+    text-decoration: none;
+    margin: 10px;
+    border-radius: 50%;
+    padding: 40px 20px;
+    background: gainsboro;
+    color: black;
+    font-size: 15pt;
+}
+    nav#first ul li a:hover {
+        background:white;
+        color: darkgreen;
+    } 
+    #social {
+        margin-top: 300px;
+        position: relative;
+        margin-right: 380px
+    }
+.social1 {
+    margin-top: 70px;
+    display: block;
+    position: relative;
+    margin-right: 380px
+}#so {
+    margin-right: 50px;
+    font: bold 16pt calibri;
+    color: darkgreen;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+    margin: 5px 2px;
+}
+
+    .fa:hover {
+        background: white;
+        color: darkgreen;
+    }
+.fa-facebook {
+    background: lightgrey;
+    color: black;
+}
+
+.fa-google {
+    background: lightgrey;
+    color: black;
+}
+.fa-instagram {
+    background: lightgrey;
+    color: black;
+}
+.second {
+    position:relative;
+    bottom:60px;
+    margin:0 auto;
+    background-color:lightgray;
+    overflow: hidden;
+    width: 346px;
+    border-radius: 15px;
+}
+nav.second ul li a {
+    float: right;
+    display: grid;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    border-bottom: 3px solid transparent;
+}
+    nav.second ul li a:hover {
+        border-bottom: 3px solid green;
+        background-color: lightgray;
+    }
+    nav.second ul li a:active {
+        border-bottom: 3px solid green;
+        background-color: lightgray;
+    }
+div.hub h2 {
+    margin-right:200px;
+    font: bold 35px calibri;
+    
+    margin-top: 150px;
+}
+div.hub {
+    text-align: right;
+    margin-right: 150px;
+    font: 25px calibri;
+    background-color:lightgray;
+    width: 600px;
+    border-radius: 30px;
+    padding-right: 70px;
+    
+}
+#ed {
+    height:250px;
+}
